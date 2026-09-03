@@ -10,3 +10,6 @@
 
 # 临时文件
 *.tmp
+
+# File operation generated test file
+/05_File_Operations/01_write_file/text.txt
